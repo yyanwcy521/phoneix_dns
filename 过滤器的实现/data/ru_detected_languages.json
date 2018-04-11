@@ -1,0 +1,37 @@
+{
+  "languages": [
+    {
+      "pl": {"name": "Polish", "family": [ "balto-slavic", "slavic", "west-slavic" ]}
+    },
+    {
+      "lv": {"name": "Latvian", "family": [ "balto-slavic", "eastern-baltic" ]}
+    },
+    {
+      "hr": {"name": "Croatian", "family": [ "balto-slavic", "slavic", "south-slavic" ]}
+    },
+    {
+      "sl": {"name": "Slovenian", "family": [ "balto-slavic", "slavic", "south-slavic" ]}
+    },
+    {
+      "hu": {"name": "Hungarian", "family": [ "uralic" ]}
+    },
+    {
+      "cs": {"name": "Czech", "family": [ "balto-slavic", "slavic", "west-slavic" ]}
+    },
+    {
+      "sk": {"name": "Slovak", "family": [ "balto-slavic", "slavic", "west-slavic" ]}
+    },
+    {
+      "et": {"name": "Estonian", "family": [ "uralic", "finnian" ]}
+    },
+    {
+      "lt": {"name": "Lithuanian", "family": [ "balto-slavic", "baltic", "eastern-baltic" ]}
+    },
+    {
+      "fi": {"name": "Finnish", "family": [ "uralic", "finnic" ]}
+    },
+    {
+      "sr": {"name": "Serbian", "family": [ "balto-slavic", "slavic", "south-slavic" ]}
+    }
+  ]
+}

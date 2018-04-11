@@ -1,0 +1,55 @@
+1092529个DGA生成域名的特征分析：
+{'bamital': 104,
+ 'banjori': 452369,
+ 'blackhole': 2,
+ 'ccleaner': 1,
+ 'chinad': 1000,
+ 'conficker': 461,
+ 'cryptolocker': 1000,
+ 'dircrypt': 470,
+ 'dyre': 1000,
+ 'emotet': 223295,
+ 'fobber_v1': 298,
+ 'fobber_v2': 298,
+ 'gameover': 12000,
+ 'gspy': 100,
+ 'locky': 1112,
+ 'madmax': 1,
+ 'matsnu': 884,
+ 'mirai': 2,
+ 'murofet': 5319,
+ 'necurs': 8192,
+ 'nymaim': 404,
+ 'padcrypt': 168,
+ 'proslikefan': 100,
+ 'pykspa_v1': 44702,
+ 'pykspa_v2_fake': 799,
+ 'pykspa_v2_real': 199,
+ 'qadars': 1800,
+ 'ramnit': 15921,
+ 'ranbyus': 4960,
+ 'rovnix': 179996,
+ 'shifu': 2553,
+ 'simda': 24271,
+ 'suppobox': 2383,
+ 'symmi': 64,
+ 'tempedreve': 204,
+ 'tinba': 95739,
+ 'tofsee': 20,
+ 'vawtrak': 298,
+ 'vidro': 100,
+ 'virut': 9939,
+ 'xshellghost': 1}
+
+
+
+
+
+
+
+
+
+
+
+
+

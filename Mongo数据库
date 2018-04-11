@@ -1,0 +1,38 @@
+ self.whitelist = self.<client.botime>.alexa_top1M
+data_location = {"mongodb": {
+        "dirty_dns": MongoClient().<phoenix>.dirty_dns,
+        "cleaned_dns": MongoClient().phoenix.cleaned_dns,
+        "classified_dns": MongoClient().phoenix.classified_dns,
+        "possibly_malicious": MongoClient().phoenix.possibly_malicious,
+        "recipients": MongoClient().phoenix.recipients
+    }
+}
+
+
+botime:
+1.exposure_domain_timeline 
+2.exposure_domain_timeline_experiment
+3.exposure_domain_ip
+4.exposure_domain_ip_experiment
+
+
+
+
+
+phoenix:
+1.suspicious_ips
+2.dirty_dns
+3.cleaned_dns
+4.classified_dns
+5.possibly_malicious
+6.recipients
+
+
+
+
+PhoenixMongoDBStatus
+
+
+
+
+get_mongodb_recipients

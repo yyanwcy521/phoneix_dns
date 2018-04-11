@@ -1,0 +1,5 @@
+1.终端上输入python -m Pyro4.naming 担任nameserver的角色。这里要特地说一下nameserver的作用：提供远程调用对象的逻辑名与URI的映射关系，使得client 在进行远程过程调用时只需要指定调用的远程对象的逻辑名称(而不用复杂的URI )和对应的nameserver就可以轻松的完成远程过程调用。
+2.运行phoneix_server服务器端
+3.运行phoneix_client客户端 在上面执行
+
+打开 client 输入bootstrap：生成僵尸网络的簇来分类未知的域名，使用这个命令去训练域名分类器

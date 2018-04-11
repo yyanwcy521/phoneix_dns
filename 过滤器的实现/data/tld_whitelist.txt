@@ -1,0 +1,12 @@
+ac.uk
+aero
+arpa
+coop
+edu
+gov
+int
+mil
+museum
+post
+pro
+travel
